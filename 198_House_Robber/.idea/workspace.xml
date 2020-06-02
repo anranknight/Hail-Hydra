@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4517419a-939f-4219-97c8-ce28b055b597" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ideas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_两数之和/Solution2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_两数之和/Solution3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_两数之和/Solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1_两数之和/Solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_两数之和/ideas" beforeDir="false" afterPath="$PROJECT_DIR$/../1_两数之和/ideas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_两数之和/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1_两数之和/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cYwY7unMLIeZ06dZFgas5D3BfQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4517419a-939f-4219-97c8-ce28b055b597" name="Default Changelist" comment="" />
+      <created>1590718878230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590718878230</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="486" y="181" key="search.everywhere.popup" timestamp="1590718940666">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="486" y="181" key="search.everywhere.popup/0.23.1440.834@0.23.1440.834" timestamp="1590718940666" />
+  </component>
+</project>

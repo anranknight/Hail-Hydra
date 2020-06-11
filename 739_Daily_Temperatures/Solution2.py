@@ -5,9 +5,10 @@
 class Solution:
     def dailyTemperatures(self, T):
         res = [0] * len(T)
+        # new a stack
         stack = []
-
         for i in range(len(T)):
+            # when stack have value
             while stack and T[i] > T[stack[-1]]:
                 # pop the smaller value's index
                 small = stack.pop()
